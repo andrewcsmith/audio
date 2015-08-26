@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["AudioDecoder",""],["AudioEncoder","Encodes `AudioBuffer`s to an audio format."],["Chunk","A `Chunk` contains data relevant to the audio format, such as track metadata or decoding details."],["Container","A `Container` is the higher level representation of the audio format."]]});
